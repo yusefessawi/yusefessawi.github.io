@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusef Essawi"
 title_separator          : "-"
 name                     : &name "Yusef Essawi"
-description              : &description "Undergraduate Computer Science Student @ UVA"
+description              : &description "Computer Science Student @ UVA"
 url                      : https://yusefessawi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusefessawi/yusefessawi.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yusefessawi"
+  linkedin         : "yusef-essawi"
   orcid            : 
   pinterest        :
   soundcloud       :
