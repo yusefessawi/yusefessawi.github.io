@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yusef Essaw"
+title                    : "Yusef Essawi"
 title_separator          : "-"
 name                     : &name "Yusef Essawi"
 description              : &description "Undergraduate Computer Science Student @ UVA"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yusef Essawi"
-  avatar           : "profile.png"
+  avatar           : "HEADSHOT.jpq"
   bio              : "Undergraduate Computer Science Student @ UVA (University of Virginia)"
   location         : "Charlottesville, VA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "yusefessawi"
   orcid            : 
   pinterest        :
   soundcloud       :
