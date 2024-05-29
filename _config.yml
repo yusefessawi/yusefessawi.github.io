@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusef Essawi"
 title_separator          : "-"
 name                     : &name "Yusef Essawi"
-description              : &description "Computer Science Student @ UVA"
+description              : &description "Software Enginner and UVA Computer Science Graduate"
 url                      : https://yusefessawi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusefessawi/yusefessawi.github.io"
@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yusef Essawi"
-  avatar           : "HEADSHOT.jpg"
-  bio              : "Undergraduate Computer Science Student @ UVA (University of Virginia)"
-  location         : "Charlottesville, VA"
+  avatar           : "grad_photo2.jpeg"
+  bio              : "Software Engineer and UVA Computer Science Alumnus"
+  location         : "Cambridge, MA | Mclean, VA | Seattle, WA"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "yte9fbr@virginia.edu"
+  email            : "essawiyusef@gmail.com
+  "
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yusef-essawi"
+  linkedin         : "yusefessawi"
   orcid            : 
   pinterest        :
   soundcloud       :
